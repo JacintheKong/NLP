@@ -6,9 +6,9 @@ It is a web tool built to analyze the articles found on other websites through N
 
 # Run project
 The application is run in development and production mode.
-
+First, `$ npm install`
 Development mode(port 8080): `$ npm run build-dev`;
-Production mode(port 3000): `$ npm run build-prod` and the `$ npm run start`
+Production mode(port 3000): `$ npm run build-prod` and `$ npm start`
 
 ## Configs
 There are two webpack config files:
